@@ -1,4 +1,6 @@
-# Projeto EBOOK gerado por I.A.s / Título - IA e Seguros: vantagens que você não pode ignorar
+# Projeto EBOOK gerado por I.A.s
+
+Título - IA e Seguros: vantagens que você não pode ignorar
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
