@@ -13,10 +13,14 @@ seguem abaixo.
 
 ChatGPT：
 
-|  Ação  | prompt                                                                                 |                                                                                                                                                                         
+|  Ação  | prompt                                                                                 |             
+
 |  título  |   Crie um título de ebook sobre o tema de Benefícios da IA para o Mercado de Seguros, o ebook é do nicho de seguros e o subnicho é de IA, o título deve ser objetivo e curto e tenha um estilo descontraído, me liste 5 variações de títulos. |
+
 |  introdução  |   Faça uma introdução para ebook, com foco nos Benefícios da IA para o Mercado de Seguros. |
+
 | conteúdo | Faça um texto para ebook, com foco nos Benefícios da IA para o Mercado de Seguros. Explique sempre de maneira simples, com o texto enxuto e um título sugestivo por tópico. |
+
 | conclusão | Faça uma conclusão para ebook, com foco nos Benefícios da IA para o Mercado de Seguros. |
 
 Leonardo.AI：
