@@ -39,3 +39,7 @@ Leonardo.AI：
 ## 📚 Materiais
 
 - Imagens complementares utilizadas copiadas do Google
+
+## Link do E-book
+
+https://github.com/Mariana-Mazivieiro/prompts---Criando-um-Ebook---Mariana-Mazivieiro/blob/main/E-book-Mariana-Mazivieiro.pdf
